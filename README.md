@@ -1,5 +1,5 @@
 # Snake-Ladder-Game-
-Snake ladder (in bangla "সাপ লুডু") game is a digital electronics software project on proteus 
+Snake ladder ("সাপ লুডু") game is a digital electronics software project on proteus 
 
 It is like our very own "সাপ লুডু" with the changes of custom positined digital snakes & ladder, a dice of 1 to 3 (not 6) and a board of 1 to 16 (not 100) position .
 
